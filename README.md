@@ -1,34 +1,71 @@
-# Excel Sales Analytics Project
+# Excel Sales & Finance Analytics Project
 
-This repository contains Excel-based data analysis and reporting projects.  
-The goal of this project is to analyze sales performance, profit & loss, and market performance using Microsoft Excel.
+This project showcases Excel-based sales and financial analysis reports created using Microsoft Excel, Power Query, and data modeling techniques.  
+The goal is to analyze business performance and generate insights through professional reports.
 
-## Reports Included
+---
 
-1. Customer Performance Report  
-2. Market Performance vs Target Report  
-3. P & L Statement by Fiscal Year  
-4. P & L Statement by Markets  
-5. P & L Statement by Months  
+## 📊 Sales Report
 
-## Skills Demonstrated
+### Project Objectives
+1. Create a **Customer Performance Report**  
+   👉 [View Report](https://github.com/amishabaghele123-a11y/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
+2. Compare **Market Performance vs Sales Target**  
+   👉 [View Report](https://github.com/amishabaghele123-a11y/Excel-Sales-Analytics/blob/main/Market%20Performance%20VS%20Target%20Report.pdf)
+
+### Purpose of Sales Analytics
+- Monitor sales performance  
+- Identify sales trends and KPIs  
+- Support business decision-making  
+
+### Role of Reports
+- Identify top customers  
+- Compare target vs actual sales  
+- Support pricing and discount decisions  
+
+---
+
+## 💰 Finance Report
+
+### Project Objectives
+
+1. **P&L by Fiscal Year**  
+   👉 [View Report](https://github.com/amishabaghele123-a11y/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statment%20By%20Fiscal%20Year.pdf)
+
+2. **P&L by Months**  
+   👉 [View Report](https://github.com/amishabaghele123-a11y/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statment%20By%20Months.pdf)
+
+3. **P&L by Markets**  
+   👉 [View Report](https://github.com/amishabaghele123-a11y/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statment%20By%20Markets.pdf)
+
+### Purpose
+- Evaluate financial performance  
+- Support forecasting and planning  
+- Assist stakeholders in decision-making  
+
+---
+
+## 🛠 Technical Skills Used
 - Data Cleaning in Excel  
+- Power Query (ETL Process)  
 - Pivot Tables  
-- Power Query  
-- Data Analysis  
+- Data Modeling  
+- Date Table Creation  
+- Fiscal Year Analysis  
 - Business Reporting  
-- Dashboard Creation  
 
-## Tools Used
+---
 
-- Microsoft Excel  
-- Power Query  
-- Pivot Tables  
-- Charts & Visualization  
+## 🤝 Soft Skills
+- Business understanding  
+- Report planning  
+- Analytical thinking  
+- Attention to detail  
 
-## About Me
+---
 
-I am learning Data Analytics and building projects using Excel, SQL, and Power BI.  
-This repository showcases my Excel reporting and analysis skills.
+## 👩‍💻 About Me
+I am a Data Analyst learner building projects in Excel, SQL, and Power BI.  
+This repository showcases my hands-on practice in sales and finance analytics.
 
