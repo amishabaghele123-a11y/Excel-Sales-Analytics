@@ -69,3 +69,11 @@ The goal is to analyze business performance and generate insights through profes
 I am a Data Analyst learner building projects in Excel, SQL, and Power BI.  
 This repository showcases my hands-on practice in sales and finance analytics.
 
+## 📂 Excel Files (Editable Version)
+
+Full Excel reports with formulas, Power Query, and data modeling can be downloaded here:
+
+👉 Finance Reports Excel:  
+https://docs.google.com/spreadsheets/d/1t-m06EjAhJUJqJPlvRkSoqyp9Dk-bjEx/edit?usp=sharing
+
+
