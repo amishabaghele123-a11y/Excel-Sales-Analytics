@@ -74,6 +74,6 @@ This repository showcases my hands-on practice in sales and finance analytics.
 Full Excel reports with formulas, Power Query, and data modeling can be downloaded here:
 
 👉 Finance Reports Excel:  
-https://docs.google.com/spreadsheets/d/1t-m06EjAhJUJqJPlvRkSoqyp9Dk-bjEx/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1t-m06EjAhJUJqJPlvRkSoqyp9Dk-bjEx/edit?gid=1030820980#gid=1030820980
 
 
